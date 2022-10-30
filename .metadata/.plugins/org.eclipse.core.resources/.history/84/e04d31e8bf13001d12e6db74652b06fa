@@ -1,0 +1,7 @@
+package com.tech.blog.helper;
+
+import java.sql.*;
+
+public class ConnectionProvider {
+	private Connection con;
+}

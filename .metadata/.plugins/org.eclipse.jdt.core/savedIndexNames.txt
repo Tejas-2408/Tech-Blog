@@ -1,0 +1,19 @@
+INDEX VERSION 1.131+F:\Projects\TechBlog\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3606554095.index
+3455834857.index
+1264551728.index
+659441783.index
+3091059201.index
+2555788773.index
+3170826133.index
+2375604097.index
+3010940358.index
+2754365324.index
+1386142246.index
+532174449.index
+2918888009.index
+3737169879.index
+2649302448.index
+1509755948.index
+1924439086.index

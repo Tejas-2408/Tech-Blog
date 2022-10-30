@@ -1,0 +1,17 @@
+package com.tech.blog.helper;
+
+import java.sql.*;
+
+public class ConnectionProvider {
+	private Connection con;
+	public static Connection getConnection() {
+		try {
+			
+		}
+		catch(Exception e) {
+			
+		}
+		
+		return con;
+	}
+}

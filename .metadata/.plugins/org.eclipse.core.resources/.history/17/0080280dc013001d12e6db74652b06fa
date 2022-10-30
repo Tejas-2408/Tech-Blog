@@ -1,0 +1,17 @@
+package com.tech.blog.helper;
+
+import java.sql.*;
+
+public class ConnectionProvider {
+	private Connection con;
+	public static Connection getConnection() {
+		try {
+			Class.forName(com.mysql.cj.jdbc.Driver);
+		}
+		catch(Exception e) {
+			
+		}
+		
+		return con;
+	}
+}
